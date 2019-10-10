@@ -1,10 +1,11 @@
-/*
- * Lab2.c
- *
- * Created: 10/6/2019 3:03:49 PM
- * Author : jackson lu
- */ 
-
+/*	Partner(s) Name & E-mail: Jackson Lu, jlu080@ucr.edu2
+ *	Lab Section: 22
+ *	Assignment: Lab 2  Exercise 1 
+ *	Exercise Description: [optional - include for your own benefit]
+ *	
+ *	I acknowledge all content contained herein, excluding template 
+ * 	or example code, is my own original work.
+ */
 #include <avr/io.h>
 #include "usart_ATmega1284.h"
 #include "timer.h"
